@@ -1,0 +1,4 @@
+﻿  practice2.8.c
+G:\c\practice2.8\practice2.8.c(18): warning C4716: “one_three”: 必须返回一个值
+G:\c\practice2.8\practice2.8.c(23): warning C4716: “two”: 必须返回一个值
+  practice2.8.vcxproj -> G:\c\practice2.8\x64\Debug\practice2.8.exe

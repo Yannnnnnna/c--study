@@ -1,0 +1,4 @@
+﻿  test.c
+G:\c\vs2022Code\date2023_5_8\Project1\test.c(18,17): error C2057: 应输入常量表达式
+G:\c\vs2022Code\date2023_5_8\Project1\test.c(18,18): error C2466: 不能分配常量大小为 0 的数组
+G:\c\vs2022Code\date2023_5_8\Project1\test.c(18,13): error C2133: “arr”: 未知的大小

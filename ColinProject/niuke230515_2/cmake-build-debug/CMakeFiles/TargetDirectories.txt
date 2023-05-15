@@ -1,0 +1,3 @@
+G:/c/ColinProject/niuke230515_2/cmake-build-debug/CMakeFiles/niuke230515_2.dir
+G:/c/ColinProject/niuke230515_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/c/ColinProject/niuke230515_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

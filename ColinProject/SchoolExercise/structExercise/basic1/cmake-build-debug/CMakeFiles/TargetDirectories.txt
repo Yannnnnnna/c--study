@@ -1,0 +1,3 @@
+G:/c/ColinProject/SchoolExercise/structExercise/basic1/cmake-build-debug/CMakeFiles/basic1.dir
+G:/c/ColinProject/SchoolExercise/structExercise/basic1/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/c/ColinProject/SchoolExercise/structExercise/basic1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

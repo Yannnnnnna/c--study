@@ -1,0 +1,4 @@
+﻿cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  test.c
+G:\c\vs2022Code\date2023_5_9\Project1\test.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> G:\c\vs2022Code\date2023_5_9\Project1\x64\Debug\Project1.exe
